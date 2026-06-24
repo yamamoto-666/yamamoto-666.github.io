@@ -62,7 +62,7 @@ p {
 /* (2) banner area */
 
 .banner {
-  background-image: url(/Users/y.d/Desktop/bootcamp/assets/images/banner-bg.jpg);
+  background-image: url(../images/banner-bg.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -121,11 +121,11 @@ p {
 
 .ads-item1 {
   margin-right: 3%;
-  background-image: url(/Users/y.d/Desktop/bootcamp/assets/images/ads-img1.jpg);
+  background-image: url(../images/ads-img1.jpg);
 }
 
 .ads-item2 {
-  background-image: url(/Users/y.d/Desktop/bootcamp/assets/images/ads-img2.jpg);
+  background-image: url(../images/ads-img2.jpg);
 }
 
 .ads-text {
