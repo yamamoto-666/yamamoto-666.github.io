@@ -62,7 +62,7 @@ p {
 /* (2) banner area */
 
 .banner {
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url("../images/banner-bg.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -121,11 +121,11 @@ p {
 
 .ads-item1 {
   margin-right: 3%;
-  background-image: url(../images/ads-img1.jpg);
+  background-image: url("../images/ads-img1.jpg");
 }
 
 .ads-item2 {
-  background-image: url(../images/ads-img2.jpg);
+  background-image: url("../images/ads-img2.jpg");
 }
 
 .ads-text {
@@ -326,7 +326,7 @@ form h3 {
 }
 
 form .card-img {
-  background-image: url("../coffee-bean/assets/images/reservation-cards.png");
+  background-image: url("../images/reservation-cards.png");
   background-size: contain;
   background-repeat: no-repeat;
   width: 150px;
@@ -347,7 +347,7 @@ form #btn-send {
 /* (9) footer area */
 
 .footer {
-  background-image:url(../images/footer-img.jpg);
+  background-image:url("../images/footer-img.jpg");
   background-size: cover;
   background-position: center;
   padding-top: 2em;
